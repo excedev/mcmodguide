@@ -43,6 +43,9 @@ Disclaimer: This guide is not made or supported by Mojang or Microsoft. It is ma
 
 [Fabric modding tutorial course by Kaupenjoe](https://www.youtube.com/watch?v=oU8-qV-ZtUY&list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L) - Same idea as above. Very good all-around tutorials. Thanks, Kaupenjoe^^.
 
+[Neoforge documentation](https://docs.neoforged.net/docs/gettingstarted/)
+[Fabric documentation](https://docs.fabricmc.net/develop/)
+
 
 # Art
 
