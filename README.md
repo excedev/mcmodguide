@@ -29,4 +29,4 @@ Disclaimer: This guide is not made or supported by Mojang or Microsoft. It is ma
 
 # Programming
 
-(Java Introduction for Minecraft Modding (2023) by Kaupenjoe)[https://www.youtube.com/watch?v=G1ifRRtJm7w&list=PLKGarocXCE1Egp6soRNlflWJWc44sau40] - Complete course for learning Java in Minecraft.
+[Java Introduction for Minecraft Modding (2023) by Kaupenjoe](https://www.youtube.com/watch?v=G1ifRRtJm7w&list=PLKGarocXCE1Egp6soRNlflWJWc44sau40) - Complete course for learning Java in Minecraft.
